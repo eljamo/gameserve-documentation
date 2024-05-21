@@ -1,6 +1,6 @@
 # GameServe Documentation
 
-GameServe is intended by a collection of services/modules which can be adapted to fit your online video game. I plan to use this as a way to practice using certain technologies and languages. I'm currently working on the Item Generation Service template in a private repository.
+GameServe is intended by a collection of services/modules which can be adapted to fit your online game. I plan to use this as a way to practice using certain technologies and languages. I'm currently working on the Item Generation Service template in a private repository.
 
 ## High Level Design
 
